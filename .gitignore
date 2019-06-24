@@ -1,0 +1,5 @@
+.vscode/
+.git/
+.idea/
+*.tmp
+__debug_bin
